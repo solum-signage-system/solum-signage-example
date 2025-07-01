@@ -1,0 +1,49 @@
+<!--
+  ~ Copyright © 2025 SOLUM. All rights reserved.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~  you may not use this file except in compliance with the License.
+  ~  You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Solum Signage example</string>
+
+    <string name="navigation_home">Home</string>
+    <string name="navigation_find_audio_output_device">Find audio output device</string>
+    <string name="navigation_change_volume">Change Volume</string>
+    <string name="navigation_mute">Mute / UnMute</string>
+    <string name="navigation_dual_screen">Dual Screen</string>
+    <string name="navigation_change_display_attribute">Change Display Attributes (including brightness)</string>
+    <string name="navigation_rotate_screen">Rotate Screen</string>
+    <string name="navigation_change_language">Change Language</string>
+    <string name="navigation_change_timezone">Change Timezone</string>
+    <string name="navigation_install_application">Install Application</string>
+    <string name="navigation_change_home_application">Change Home Application</string>
+    <string name="navigation_clear_app_data">Clear App Data/Cache</string>
+    <string name="navigation_allow_appmode">Allow/Disallow AppMode</string>
+    <string name="navigation_allow_permissions">Allow Android permissions</string>
+    <string name="navigation_get_device_information">Get Device Information</string>
+    <string name="navigation_enable_remote_control">Enable/Disable Remote Control</string>
+    <string name="navigation_enable_touch_input">Enable/Disable Touch Input</string>
+    <string name="navigation_take_screenshot">Take a Screen Snapshot</string>
+    <string name="navigation_capture_logcat_log">Capture Logcat Log</string>
+    <string name="navigation_simulate_mouse_input">Simulate Mouse Input</string>
+    <string name="navigation_simulate_keyboard_input">Simulate Keyboard Input</string>
+
+    <string name="text_only_1_display">There is only one display device.</string>
+    <string name="text_primary_display">This is primary display</string>
+    <string name="text_secondary_display">This is secondary display</string>
+    <string name="text_volume_tooltip">Use Left/Right arrow keys to control volume when the slider area is focused.</string>
+    <string name="text_supported_audio_output">List of supported audio output devices</string>
+    <string name="text_supported_audio_output_for_media">List of audio output device for media playing</string>
+
+</resources>
